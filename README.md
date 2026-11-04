@@ -1,10 +1,13 @@
-# wip bruh ;-;
+#     
 
 
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/ed6968ab-300c-4887-8e20-db7d2a9f10d1" />
+
 <img
-src="https://github.com/user-attachments/assets/6147aad5-52d6-44dd-b175-6fae0dafc81b"
-  width="100%"
+src="https://github.com/user-attachments/assets/caf49f35-1dcb-4726-b012-43a8aab6a6f8"
+  width="50%"
   alt="1000246485"
 />
+$\color{#00000}{\textsf{rock}}$
