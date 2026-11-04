@@ -1,6 +1,6 @@
 #     
 
-$\color{#664E6F}{\textsf{rock}}$
+$\color{#664E6F}{\textsf{test}}$
 
 
 <div align="center">
@@ -9,7 +9,6 @@ $\color{#664E6F}{\textsf{rock}}$
 
 <img
 src="https://github.com/user-attachments/assets/caf49f35-1dcb-4726-b012-43a8aab6a6f8"
-  width="50%"
+  width="60%"
   alt="1000246485"
 />
-$\color{#00000}{\textsf{rock}}$
